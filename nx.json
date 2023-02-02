@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "npmScope": "andreirazmerita",
+  "npmScope": "app",
   "tasksRunnerOptions": {
     "default": {
       "runner": "@nrwl/nx-cloud",
@@ -74,5 +74,5 @@
       "style": "scss"
     }
   },
-  "defaultProject": "andreirazmerita"
+  "defaultProject": "app"
 }
